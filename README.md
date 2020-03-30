@@ -8,5 +8,6 @@ If you are being harassed by a member of the community, notice that someone else
 
 * Kevin Marx (kevin)
 * Chris Arcand (chris)
+* Jon Phenow (jphenow)
 
-The MSPTech Slack instance is first and foremost a place to connect and chat with other members of the local tech community and _not_ a recruiting tool. Please refrain from posting available positions at your company anywhere but the #jobs channel.
+The MSPTech Slack instance is first and foremost a place to connect and chat with other members of the local tech community and _not_ a recruiting tool. Please refrain from posting available positions at your company anywhere but the #jobs channel. Cold messaging users with spam DMs about your business will not be tolerated. 
